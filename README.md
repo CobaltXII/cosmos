@@ -2,7 +2,7 @@
 
 Cosmos is an OpenCL accelerated n-body simulator. It can be used to render n-body simulations at a high speed.
 
-![Alt text](https://github.com/CobaltXII/cosmos/blob/master/img/cosmos.png?raw=true)
+![Alt text](https://github.com/CobaltXII/cosmos/blob/master/cosmos.png?raw=true)
 
 ## Usage
 
