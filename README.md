@@ -66,6 +66,10 @@ To speed up simulations and renders even more, compile with
 clang++ cosmos_tool.cpp -o cosmos_tool -std=c++11 -lOpenCL -Ofast -march=native
 ```
 
+## Sample renders
+
+Take a look at the image above. That should give you a general idea of what Cosmos can do. If you can only see in video, [here's one](https://streamable.com/8zctb).
+
 ## Credits and licensing
 
 Cosmos is licensed under the MIT License. Thanks to Sean Barrett for creating stb_image_write. Thanks to the Khronos Group for creating OpenCL, which in my experience was a very nice API to work with. Thanks to Stéfan van der Walt and Nathaniel Smith for creating the palette used in thermal_colormap.
