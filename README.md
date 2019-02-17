@@ -2,6 +2,8 @@
 
 Cosmos is an OpenCL accelerated n-body simulator. It can be used to render n-body simulations at a high speed.
 
+![Alt text](https://github.com/CobaltXII/cosmos/blob/master/img/cosmos.png?raw=true)
+
 ## Usage
 
 Using Cosmos is a two step process. First, you must output binary data of the results of a n-body simulation. Second, you render this to a high-resolution image sequence. Cosmos provides two tools for these purposes, cosmos_simulate and cosmos_render. Cosmos also provides cosmos_sketch, used to quickly render ugly videos for testing.
