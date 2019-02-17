@@ -30,6 +30,11 @@ __stringify
 
 			float d = dx * dx + dy * dy;
 
+			// PARAM: The 1024.0f can be reduced to make blobs smaller. It can
+			// be increased to make blobs larger. The 0.0256f can be increased
+			// to make blobs less prominent. Changing it to 0.0f is a bad
+			// idea.
+
 			float iw = 1.0f / (d * (inv_scale / 1024.0f) + 0.0256f);
 
 			w += iw;
