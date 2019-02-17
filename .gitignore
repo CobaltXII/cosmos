@@ -1,0 +1,7 @@
+*.DS_Store
+
+*.sh
+
+cosmos_simulate
+cosmos_sketch
+cosmos_render
